@@ -35,3 +35,6 @@ npm install
 ```bash
 npm run dev
 ```
+
+4. **Open Brower**
+   Visit: http://localhost:5173
