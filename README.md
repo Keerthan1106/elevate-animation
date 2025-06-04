@@ -15,6 +15,11 @@ Recreated the Logo Animation for Elevate
 - HTML5 & CSS3
 - TailwindCSS
 
+## Prerequisites
+- Node.js
+- Git
+- Code Editor (Vs Code)
+
 ## 📦 Installation & Setup
 
 1. **Clone the repository**
@@ -37,4 +42,5 @@ npm run dev
 ```
 
 4. **Open Brower**
-   Visit: http://localhost:5173
+
+    Visit: http://localhost:5173
